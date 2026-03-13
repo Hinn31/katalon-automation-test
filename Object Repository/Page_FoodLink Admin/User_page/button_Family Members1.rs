@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Family Members1</name>
+   <tag></tag>
+   <elementGuidId>b27d1cd8-8088-4a87-be7c-14a44c98e2cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.family-section-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/div[4]/div/div[2]/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>23431995-7b8a-48aa-be83-1572f65d3dee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>family-section-toggle</value>
+      <webElementGuid>d830d167-9871-4523-9e1d-57065ff4fd48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Family Members1</value>
+      <webElementGuid>38d910bc-3444-4fe3-919d-3f85d13a4f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;admin-layout&quot;]/main[@class=&quot;main-content&quot;]/div[@class=&quot;content-area&quot;]/div[@class=&quot;users-page&quot;]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-content modal-lg&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;family-section&quot;]/button[@class=&quot;family-section-toggle&quot;]</value>
+      <webElementGuid>1b181f64-6219-4510-a400-6fc81e37231d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div[4]/div/div[2]/div[3]/button</value>
+      <webElementGuid>9cbbb6d6-1910-46bb-9576-7c5e927d537f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::button[1]</value>
+      <webElementGuid>96d3ca36-0149-46d4-94d1-19c4b4266d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated'])[1]/following::button[1]</value>
+      <webElementGuid>1d63ccd8-e95f-475d-877f-b870cf377058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[3]/preceding::button[1]</value>
+      <webElementGuid>42bfe52e-78fe-48cb-8049-abfb3472718b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>f65a2290-f884-49d3-b687-fb0cf9d329cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Family Members1' or . = 'Family Members1')]</value>
+      <webElementGuid>335ed392-c0ac-42f5-8c64-a9c39fe3e6a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Block</name>
+   <tag></tag>
+   <elementGuidId>a08c916b-d718-4e05-a522-2c25023b9100</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-sm.btn-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='users-table']/tbody/tr[2]/td[6]/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4b511b5e-4f65-4bc8-9f1c-2d52726705f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-danger</value>
+      <webElementGuid>b340b1cf-b33a-4a17-b450-f86d1bf13ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Block</value>
+      <webElementGuid>7097475e-7619-4d9f-867a-6571c50349ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Block</value>
+      <webElementGuid>6cff2373-9745-4243-a5ec-3a23e699a28d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;users-table&quot;)/tbody[1]/tr[2]/td[6]/div[@class=&quot;user-actions&quot;]/button[@class=&quot;btn btn-sm btn-danger&quot;]</value>
+      <webElementGuid>e8184adb-5a2c-4052-a1f3-3b0d502642af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='users-table']/tbody/tr[2]/td[6]/div/button[2]</value>
+      <webElementGuid>9f69fcea-909b-4d65-9879-015da0952dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/following::button[2]</value>
+      <webElementGuid>2d8c3c9b-676b-4f9f-8890-5a38ae040d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='datpham@gmail.com'])[1]/following::button[2]</value>
+      <webElementGuid>8934e6fa-4a3c-4df1-9ed4-789d42ca4657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T'])[1]/preceding::button[1]</value>
+      <webElementGuid>724cb34b-ec7d-4609-bb30-b474fd993e36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[1]/preceding::button[1]</value>
+      <webElementGuid>db6762c1-6f18-4267-af28-de33463dc1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Block']/parent::*</value>
+      <webElementGuid>f9297b61-8cfe-43e6-9fd3-93e59b9cba16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>6ee975f1-0fb1-4d85-a95a-65c4b708496d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Block' and (text() = ' Block' or . = ' Block')]</value>
+      <webElementGuid>99e46002-6c72-44dc-ab6e-0025c9d468eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

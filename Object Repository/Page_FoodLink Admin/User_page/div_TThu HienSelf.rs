@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TThu HienSelf</name>
+   <tag></tag>
+   <elementGuidId>ebe4d80b-cbd8-4f34-afce-633203aeed9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.family-member-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/div/div[4]/div/div[2]/div[3]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>703ea1e0-9b66-423b-93a3-df070167d4fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>family-member-header</value>
+      <webElementGuid>ed2b27f3-0096-4f3b-af22-028bf63e7344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TThu HienSelf</value>
+      <webElementGuid>8e34f66c-18fe-45e0-abc0-419ed87b6912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;admin-layout&quot;]/main[@class=&quot;main-content&quot;]/div[@class=&quot;content-area&quot;]/div[@class=&quot;users-page&quot;]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-content modal-lg&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;family-section&quot;]/div[@class=&quot;family-section-content&quot;]/div[@class=&quot;family-list&quot;]/div[@class=&quot;family-member-card&quot;]/div[@class=&quot;family-member-header&quot;]</value>
+      <webElementGuid>23e7bf55-b1be-4c8e-a760-247224097d2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div[4]/div/div[2]/div[3]/div/div/div/div</value>
+      <webElementGuid>c2e49d84-5f3f-4746-b96e-388f72f97ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Family Members'])[1]/following::div[4]</value>
+      <webElementGuid>f5b97655-22e6-4433-b002-cde134277a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/following::div[6]</value>
+      <webElementGuid>2128360c-4c56-495b-aefc-ab7c3abdc7f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div</value>
+      <webElementGuid>d540c76f-4a22-4f58-83ce-df7230708367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TThu HienSelf' or . = 'TThu HienSelf')]</value>
+      <webElementGuid>a8ecfcc7-3e39-4ca9-b088-1ca5b7fb06b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

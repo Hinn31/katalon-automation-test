@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Created03092026, 0737 AM</name>
+   <tag></tag>
+   <elementGuidId>9c325fe8-6ea1-47b1-b86f-b81293d9fbf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(),'03/09/2026')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8c814bfa-f72b-4bda-87ab-08844b7b8757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>detail-row</value>
+      <webElementGuid>9e97964e-01ef-4156-a1f1-e5f149d29cce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Created03/09/2026, 07:37 AM</value>
+      <webElementGuid>05be1500-50e6-4739-848d-54ccc4ed5d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;admin-layout&quot;]/main[@class=&quot;main-content&quot;]/div[@class=&quot;content-area&quot;]/div[@class=&quot;users-page&quot;]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-content modal-lg&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;user-detail-info&quot;]/div[@class=&quot;detail-row&quot;]</value>
+      <webElementGuid>dae7d801-2501-4011-a68e-f8a9daa8930f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div[4]/div/div[2]/div[2]/div[4]</value>
+      <webElementGuid>f03af0d4-5cb7-4697-9cea-925bd972813f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='—'])[7]/following::div[1]</value>
+      <webElementGuid>0eea9968-e3d6-41d9-a679-b0733571f2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/following::div[1]</value>
+      <webElementGuid>82af9732-f190-4ad6-9365-a6fa3e61534d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated'])[1]/preceding::div[2]</value>
+      <webElementGuid>c23ffedc-a466-4b50-9b7c-58471f2ecc5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]</value>
+      <webElementGuid>6691397e-b4df-4dbc-863d-324fafa2df77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Created03/09/2026, 07:37 AM' or . = 'Created03/09/2026, 07:37 AM')]</value>
+      <webElementGuid>a01c3750-fe36-4a9e-a91d-9893ce1e099d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

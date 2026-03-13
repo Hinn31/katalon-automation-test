@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_User Management_input</name>
+   <tag></tag>
+   <elementGuidId>aaf1326f-520f-4409-bafe-9b957f92ae95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/main/div/div/div[2]/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fa9414f7-869f-454f-90a2-02e68a4c9935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>835af039-6a74-48a9-8423-49d5b5da2cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search by name or email...</value>
+      <webElementGuid>68d50d55-d5f9-4d36-a195-6797972288d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;admin-layout&quot;]/main[@class=&quot;main-content&quot;]/div[@class=&quot;content-area&quot;]/div[@class=&quot;users-page&quot;]/div[@class=&quot;users-toolbar card&quot;]/div[@class=&quot;input-with-icon&quot;]/input[@class=&quot;input&quot;]</value>
+      <webElementGuid>86c57ee6-67d0-4d29-a1c4-e2601232ea43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>e1017dfc-1baf-4ca3-96e4-5f5d997cf0a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div[2]/div/input</value>
+      <webElementGuid>b2bf61b7-8ed8-45e7-bde8-bdb2829ab081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>dbf21b44-563d-44a4-ad1e-ebc36ee3fd10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search by name or email...']</value>
+      <webElementGuid>90097d10-f29b-4e0c-93fe-f3e9a6e97af9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

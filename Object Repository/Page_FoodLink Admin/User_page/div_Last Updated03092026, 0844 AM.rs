@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Last Updated03092026, 0844 AM</name>
+   <tag></tag>
+   <elementGuidId>cf46012c-177b-4b4e-b5f6-0f072af4a3a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/main/div/div/div[4]/div/div[2]/div[2]/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e40be1cc-3b7d-4b35-88c4-ca662ebabe12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>detail-row</value>
+      <webElementGuid>56f326c4-b56f-4aec-86b1-d7abb4f0b240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Last Updated03/09/2026, 08:44 AM</value>
+      <webElementGuid>835bcf53-4f7f-465b-854a-d2221e722578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;admin-layout&quot;]/main[@class=&quot;main-content&quot;]/div[@class=&quot;content-area&quot;]/div[@class=&quot;users-page&quot;]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-content modal-lg&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;user-detail-info&quot;]/div[@class=&quot;detail-row&quot;]</value>
+      <webElementGuid>442de0f3-7740-4a75-9dc3-4e6efe119474</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div[4]/div/div[2]/div[2]/div[5]</value>
+      <webElementGuid>23253d48-b2b5-4951-83ab-925c1f2ff9df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created'])[2]/following::div[1]</value>
+      <webElementGuid>1bf7cafd-31d9-45ed-8b73-74fcb8c1792e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='—'])[7]/following::div[3]</value>
+      <webElementGuid>cd9a431b-bf25-4332-a653-9305bad6f7cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/preceding::div[2]</value>
+      <webElementGuid>ca9c9a3a-44c9-4ef3-bf04-3e66e48114c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>18ae6dac-d1a7-44bf-b5a9-92863119f936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Last Updated03/09/2026, 08:44 AM' or . = 'Last Updated03/09/2026, 08:44 AM')]</value>
+      <webElementGuid>4b1f2100-8015-4f0e-a1a0-1210a89a98bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

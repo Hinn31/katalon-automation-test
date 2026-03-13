@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Active</name>
+   <tag></tag>
+   <elementGuidId>e2b3b727-847d-47a5-b297-d60b81cc6870</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.badge.badge-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='users-table']/tbody/tr/td[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ec6b5dca-5984-434a-ab9a-fde5585b593d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge badge-success</value>
+      <webElementGuid>1a48e3ad-7e5d-4161-a42f-aee0d900742e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Active</value>
+      <webElementGuid>0c36988b-c1f8-4195-a551-f2b98aa59338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;users-table&quot;)/tbody[1]/tr[1]/td[4]/span[@class=&quot;badge badge-success&quot;]</value>
+      <webElementGuid>376a5431-b4c0-4161-862d-78543ae4aa52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='users-table']/tbody/tr/td[4]/span</value>
+      <webElementGuid>47869c21-c424-4941-b4ca-a2b45205b5c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='—'])[1]/following::span[1]</value>
+      <webElementGuid>6702725d-ec7d-4a53-b1aa-588a2ee66204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hienvo@gmail.com'])[2]/following::span[1]</value>
+      <webElementGuid>80be5e43-e2c3-4af0-8a3e-dc188224d7d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DP'])[1]/preceding::span[1]</value>
+      <webElementGuid>7389c711-1904-4cb4-a04f-ad13c588590c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dat Pham'])[1]/preceding::span[1]</value>
+      <webElementGuid>39dd2e7a-5021-4f9e-b162-dbe6747de58a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Active']/parent::*</value>
+      <webElementGuid>e3381eb3-a119-43d4-93cc-2d0ac4d18e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/span</value>
+      <webElementGuid>e6066f25-5f10-4709-81b7-83f3d0443e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Active' or . = 'Active')]</value>
+      <webElementGuid>55251ea4-16c6-482c-bbd1-96cd52d46de7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

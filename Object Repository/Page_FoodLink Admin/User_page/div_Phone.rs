@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Phone</name>
+   <tag></tag>
+   <elementGuidId>75210e48-3cfd-47cc-a645-f562a9d15051</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='detail-row-label' and text()='Phone']/following-sibling::span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02c8d118-f11d-4f9c-b55a-d1b60e3a914f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>detail-row</value>
+      <webElementGuid>e02d0c5e-20de-47c2-b681-8f82ddd7d74f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phone—</value>
+      <webElementGuid>427c4b81-dd48-44cf-81c6-4cc5572f94b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;admin-layout&quot;]/main[@class=&quot;main-content&quot;]/div[@class=&quot;content-area&quot;]/div[@class=&quot;users-page&quot;]/div[@class=&quot;modal-overlay&quot;]/div[@class=&quot;modal-content modal-lg&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;user-detail-info&quot;]/div[@class=&quot;detail-row&quot;]</value>
+      <webElementGuid>353b8bc2-1100-476f-9437-de5aee2673be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/div/div[4]/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>c830ecc8-0b29-4c12-b349-dcd87ca05333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hienvo@gmail.com'])[3]/following::div[1]</value>
+      <webElementGuid>b8b09f03-bc4e-4b3b-abf5-5ebfac3ed584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[2]/following::div[1]</value>
+      <webElementGuid>b15a2fab-6eb8-4d0c-a9df-76ad20f93516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+      <webElementGuid>eacf955b-beef-4c44-8c67-dfb40c763348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Phone—' or . = 'Phone—')]</value>
+      <webElementGuid>dd9c726d-e55c-4a5c-9c85-61d94398763c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

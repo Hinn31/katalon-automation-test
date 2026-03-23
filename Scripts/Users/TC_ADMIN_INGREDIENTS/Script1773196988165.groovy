@@ -140,11 +140,62 @@ WebUI.waitForElementNotVisible(
 
 
 // ======================
+// ADD DUPLICATE INGREDIENT
+// ======================
+
+// Click Add New
+WebUI.click(
+findTestObject('Page_FoodLink Admin/Ingredients/button_Add New'))
+
+WebUI.waitForElementVisible(
+findTestObject('Page_FoodLink Admin/Ingredients/input_name'),10)
+
+// Nhập lại tên đã tồn tại
+WebUI.setText(
+findTestObject('Page_FoodLink Admin/Ingredients/input_name'),
+'Test Beef')
+
+WebUI.setText(
+findTestObject('Page_FoodLink Admin/Ingredients/input_category'),
+'Meat')
+
+WebUI.setText(
+findTestObject('Page_FoodLink Admin/Ingredients/input_unit'),
+'g')
+
+WebUI.setText(
+findTestObject('Page_FoodLink Admin/Ingredients/input_calories'),
+'200')
+
+WebUI.setText(
+findTestObject('Page_FoodLink Admin/Ingredients/input_protein'),
+'25')
+
+WebUI.setText(
+findTestObject('Page_FoodLink Admin/Ingredients/input_carb'),
+'5')
+
+WebUI.setText(
+findTestObject('Page_FoodLink Admin/Ingredients/input_fat'),
+'12')
+
+// Click create
+WebUI.click(
+findTestObject('Page_FoodLink Admin/Ingredients/button_create'))
+
+WebUI.delay(2)
+
+// VERIFY ERROR MESSAGE
+WebUI.verifyElementVisible(
+findTestObject('Page_FoodLink Admin/Ingredients/text_duplicate_error'))
+
+
+// ======================
 // EDIT INGREDIENT
 // ======================
 
 WebUI.click(
-findTestObject('Page_FoodLink Admin/Ingredients/button_edit_test_beef'))
+findTestObject('null'))
 
 WebUI.waitForElementVisible(
 findTestObject('Page_FoodLink Admin/Ingredients/input_name'),10)
@@ -160,6 +211,36 @@ WebUI.click(
 findTestObject('Page_FoodLink Admin/Ingredients/button_update'))
 
 WebUI.delay(3)
+
+// ======================
+// UPDATE WITH EXISTING NAME
+// ======================
+
+// Click edit ingredient
+WebUI.click(
+findTestObject('Page_FoodLink Admin/Ingredients/button_edit_chicken'))
+
+WebUI.waitForElementVisible(
+findTestObject('Page_FoodLink Admin/Ingredients/input_name'),10)
+
+// Clear name
+WebUI.clearText(
+findTestObject('Page_FoodLink Admin/Ingredients/input_name'))
+
+// Set name đã tồn tại
+WebUI.setText(
+findTestObject('Page_FoodLink Admin/Ingredients/input_name'),
+'egg')
+
+// Click update
+WebUI.click(
+findTestObject('Page_FoodLink Admin/Ingredients/button_update'))
+
+WebUI.delay(2)
+
+// VERIFY ERROR MESSAGE
+WebUI.verifyElementVisible(
+findTestObject('Page_FoodLink Admin/Ingredients/text_duplicate_error'))
 
 
 
@@ -182,7 +263,7 @@ findTestObject('Page_FoodLink Admin/Ingredients/row_test_beef_updated'),
 // ======================
 
 WebUI.click(
-findTestObject('Page_FoodLink Admin/Ingredients/button_delete_test_beef_updated'))
+findTestObject('Page_FoodLink Admin/Ingredients/button_delete'))
 
 WebUI.delay(2)
 

@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;root&quot;]/div/main/div/div/div[2]/div/input</value>
+         <value>//*[@id=&quot;root&quot;]/div/main/div/div/div[2]/div[1]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

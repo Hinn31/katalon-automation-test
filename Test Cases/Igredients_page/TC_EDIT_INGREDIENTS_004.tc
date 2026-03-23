@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_EDIT_INGREDIENTS_004</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3075dd32-1600-46db-b829-18d5561bea2f</testCaseGuid>
+</TestCaseEntity>

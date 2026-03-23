@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_ADMIN_HEALTH CONDITONS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2bcb26e7-42fc-4665-8268-5d7aba6a8ac9</testCaseGuid>
+</TestCaseEntity>
